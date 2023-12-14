@@ -1,0 +1,8 @@
+{
+  "@@locale": "ko",
+
+  "pushButton": "버튼 누른 횟수:",
+  "@pushButton": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+
+  "pushButton": "You have pushed the button this many ...:",
+  "@pushButton": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
